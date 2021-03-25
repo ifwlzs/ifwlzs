@@ -1,2 +1,2 @@
 
-<img src="https://pan.ifwlzs.workers.dev/tuChuang/img/IMG_20170624_001814.jpg">
+<img src="https://gitee.com/ifwlzs/img/raw/master/img/image-20210325211144644.png">
