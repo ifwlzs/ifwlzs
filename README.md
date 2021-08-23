@@ -19,11 +19,11 @@
 ---
 
 <a href="https://github.com/ifwlzs/YueDuBackup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifwlzs&repo=YueDuBackup&theme=gotham&show_icons=true&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ifwlzs&repo=YueDuBackup&theme=gotham&show_icons=true&show_owner=true" />
 </a>
 
 <a href="https://github.com/ifwlzs/tampermonkeyScript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifwlzs&repo=tampermonkeyScript&theme=gotham&show_icons=true&show_owner=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ifwlzs&repo=tampermonkeyScript&theme=gotham&show_icons=true&show_owner=true" />
 </a>
 
 
