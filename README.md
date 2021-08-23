@@ -7,7 +7,7 @@
 [![博客](https://img.shields.io/badge/博客-菊博-0AA687)](https://ifwlzs.github.io)
 [![发布页](https://img.shields.io/badge/发布页-菊汇-0AA687)](https://ifwlzs.github.io/show-ss-ak)
 [![导航站](https://img.shields.io/badge/导航-菊搜-0AA687)](https://ifwlzs.github.io/ss)
-[![菊盘](https://img.shields.io/badge/网站-菊盘-0AA687)](https://ifwlzs.github.io/toPan)
+[![菊盘](https://img.shields.io/badge/网盘-菊盘-0AA687)](https://ifwlzs.github.io/toPan)
 [![营销号](https://img.shields.io/badge/工具-营销号文章生成-488FB3)](https://ifwlzs.github.io/createYXHcopy)
 [![发现美化](https://img.shields.io/badge/工具-[阅读]APP美化发现-488FB3)](https://ifwlzs.github.io/YueDuBackup/tool)
 
