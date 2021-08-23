@@ -2,6 +2,7 @@
 
 ---
 
+[![邮箱](https://img.shields.io/badge/邮箱-93xo.ox39@gmail.com-46954A)](mailto:93xo.ox39@gmail.com)
 [![码云](https://img.shields.io/badge/码云-ifwlzs-46954A)](https://gitee.com/ifwlzs)
 [![GitHub](https://img.shields.io/badge/GitHub-ifwlzs-46954A)](https://github.com/ifwlzs)
 [![博客](https://img.shields.io/badge/博客-菊博-0AA687)](https://ifwlzs.github.io)
@@ -14,7 +15,7 @@
 ---
 
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ifwlzs&theme=gotham&show_icons=true" /></a>
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifwlzs&theme=gotham&show_icons=true&card_width=350" /></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifwlzs&theme=gotham&show_icons=true&card_width=350&hide=makefile&hide_title=true" /></a>
 
 ---
 
