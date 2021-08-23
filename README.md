@@ -14,7 +14,7 @@
 ---
 
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ifwlzs&theme=gotham&show_icons=true" /></a>
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifwlzs&theme=gotham&show_icons=true&card_width=400" /></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifwlzs&theme=gotham&show_icons=true&card_width=350" /></a>
 
 ---
 
