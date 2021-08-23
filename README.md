@@ -13,15 +13,15 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ifwlzs&theme=gotham&show_icons=true" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifwlzs&theme=gotham&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifwlzs&theme=gotham&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifwlzs&theme=gotham&show_icons=true&card_width=300" />
 
 ---
 
 <a href="https://github.com/ifwlzs/YueDuBackup">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifwlzs&repo=YueDuBackup&theme=gotham&show_icons=true&show_owner=true" />
 </a>
+
 <a href="https://github.com/ifwlzs/tampermonkeyScript">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifwlzs&repo=tampermonkeyScript&theme=gotham&show_icons=true&show_owner=true" />
 </a>
