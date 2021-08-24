@@ -2,9 +2,9 @@
 
 ---
 
-[![邮箱](https://img.shields.io/badge/邮箱-93xo.ox39@gmail.com-46954A)](mailto:93xo.ox39@gmail.com)
 [![码云](https://img.shields.io/badge/码云-ifwlzs-46954A)](https://gitee.com/ifwlzs)
 [![GitHub](https://img.shields.io/badge/GitHub-ifwlzs-46954A)](https://github.com/ifwlzs)
+[![邮箱](https://img.shields.io/badge/邮箱-93xo.ox39@gmail.com-1E756F)](mailto:93xo.ox39@gmail.com)
 [![博客](https://img.shields.io/badge/博客-菊博-0AA687)](https://ifwlzs.github.io)
 [![发布页](https://img.shields.io/badge/发布页-菊汇-0AA687)](https://ifwlzs.github.io/show-ss-ak)
 [![导航站](https://img.shields.io/badge/导航-菊搜-0AA687)](https://ifwlzs.github.io/ss)
