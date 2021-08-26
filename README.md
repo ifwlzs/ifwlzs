@@ -10,7 +10,7 @@
 [![导航站](https://img.shields.io/badge/导航-菊搜-0AA687)](https://ifwlzs.github.io/ss)
 [![菊盘](https://img.shields.io/badge/网盘-菊盘-0AA687)](https://ifwlzs.github.io/toPan)
 [![营销号](https://img.shields.io/badge/工具-营销号文章生成-488FB3)](https://ifwlzs.github.io/createYXHcopy)
-[![发现美化](https://img.shields.io/badge/工具-[阅读]APP美化发现-488FB3)](https://ifwlzs.github.io/YueDuBackup/tool)
+[![发现美化](https://img.shields.io/badge/工具-[阅读]APP美化发现-488FB3)](https://oli-fa.github.io/YueDuBackup/tool)
 
 ---
 
@@ -19,8 +19,8 @@
 
 ---
 
-<a href="https://github.com/ifwlzs/YueDuBackup">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ifwlzs&repo=YueDuBackup&theme=gotham&show_icons=true&show_owner=true" />
+<a href="https://github.com/oli-fa/YueDuBackup">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=oli-fa&repo=YueDuBackup&theme=gotham&show_icons=true&show_owner=true" />
 </a>
 
 <a href="https://github.com/ifwlzs/tampermonkeyScript">
