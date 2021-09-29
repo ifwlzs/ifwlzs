@@ -3,7 +3,7 @@
 ---
 
 
-[![activity](https://ju-activity.herokuapp.com/graph?username=ifwlzs&theme=react-dark)](#)
+[![activity](https://activity-graph.herokuapp.com/graph?username=ifwlzs&theme=react-dark)](#)
 
 [![码云](https://img.shields.io/badge/码云-ifwlzs-46954A)](https://gitee.com/ifwlzs)
 [![GitHub](https://img.shields.io/badge/GitHub-ifwlzs-46954A)](https://github.com/ifwlzs)
