@@ -15,13 +15,13 @@
 [![菊盘](https://img.shields.io/badge/网盘-菊盘-0AA687)](https://ifwlzs.github.io/toPan)
 [![营销号](https://img.shields.io/badge/工具-营销号文章生成-488FB3)](https://ifwlzs.github.io/createYXHcopy)
 [![发现美化](https://img.shields.io/badge/工具-[阅读]APP美化发现-488FB3)](https://oli-fa.github.io/YueDuBackup/tool)
-[![发现美化](https://komarev.com/ghpvc/?username=ifwlzs)](https://github.com/ifwlzs)
+[![查看统计](https://komarev.com/ghpvc/?username=ifwlzs)](https://github.com/ifwlzs)
 
 ---
 
 |[![](https://github-readme-stats.vercel.app/api?username=ifwlzs&&show_icons=true&theme=gotham)](#)|[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ifwlzs&layout=compact&theme=gotham&langs_count=20)](#)|
 |:-:|:-:|
-
+|[![](http://github-readme-streak-stats.herokuapp.com?user=ifwlzs&theme=gotham)](#)|[![](https://count.getloli.com/get/@ifwlzs?theme=rule34)](#)|
 
 ---
 
